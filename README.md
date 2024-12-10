@@ -16,9 +16,4 @@ This project applies **Machine Learning** techniques to design and optimize **Ad
 ## Applications  
 - Automotive, aerospace, and construction Industries for lightweight and durable materials.  
 
-## Repository Structure  
 
-- data/           # Raw and processed datasets  
-- notebooks/      # Goole colab file for experiments  
-- reports/        # Research and findings  
-- README.md       # Project description (this file)  
